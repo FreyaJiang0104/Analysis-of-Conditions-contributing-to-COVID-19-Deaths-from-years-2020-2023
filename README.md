@@ -42,4 +42,5 @@ Each row represents a time period (months/years) when deaths occured and tells u
 Dataset has
 * 16 Columns
 * 133700 Rows
+
 We will be using Pandas, NumPy, Matplotlib and Seaborn to make our plots and visualizations to showcase the data.
